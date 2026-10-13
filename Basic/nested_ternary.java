@@ -1,6 +1,6 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 
-public class GFG {
+public class nested_ternary {
     public static void main(String[] args)
     {
 

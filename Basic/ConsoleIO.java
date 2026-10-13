@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ConsoleIO {
-    public class static void main(String[] args) {
+    public static void main(String[] args) {
         // Create scanner object
         Scanner scanner = new Scanner(System.in);
         

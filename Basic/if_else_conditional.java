@@ -1,4 +1,4 @@
-public class GFG {
+public class if_else_conditional {
     public static void main(String[] args)
     {
 

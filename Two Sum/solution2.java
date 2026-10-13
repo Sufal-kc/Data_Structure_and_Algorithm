@@ -1,5 +1,6 @@
 import java.util.Arrays;
 import java.util.Comparator;
+//using space for time complexity of O(nlogn) and space complexity of O(n)
 
 class solution2 {
     public int[] twoSum(int[] nums, int target) {

@@ -11,7 +11,7 @@
 // Output: "10101"
 
  
-class Solution {
+class Solution1 {
     public String addBinary(String a, String b) {
         int num1= Integer.parseInt(a, 2);
         int num2= Integer.parseInt(b, 2);

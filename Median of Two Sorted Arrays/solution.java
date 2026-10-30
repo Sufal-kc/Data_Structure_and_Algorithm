@@ -70,3 +70,8 @@ public class solution {
         System.out.println("Median: " + median);
     }
 }
+
+// Complexity analysis
+// Let m be the length of nums1 and n be the length of nums2.
+// - Time complexity: O(m + n) — each element is processed once.
+// - Space complexity: O(m + n) — nums3 stores all elements from both arrays.

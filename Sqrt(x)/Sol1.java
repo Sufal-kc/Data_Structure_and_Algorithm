@@ -42,3 +42,12 @@ public class Sol1{
         System.out.println("Result: " + result);
     }
 }
+// [Naive Approach] Using a loop - O(sqrt(n)) Time and O(1) Space
+//in simpler approach
+//public int mySqrt(int x) {
+//        int n = 1;
+//       while  (n*n <= x){
+//            n++;
+//        }
+//        return n-1;
+    
